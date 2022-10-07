@@ -1,2 +1,3 @@
-# stock-analysis
-Module 2
+# Refactoring with Excel
+
+##Overview of Project
