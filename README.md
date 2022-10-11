@@ -26,7 +26,8 @@ the code for bigger data; which you will see further in this analysis.
 
 
 
-<img src="Resources/VBA_Challenge_2017.png" width=400> 
+<img src="Resources/VBA_Challenge_2017.png" width=400> <img src="Resources/VBA_Challenge_2018.png" width=400> 
+
 
 
 ### Refactored Code Results
