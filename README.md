@@ -29,9 +29,9 @@ the code for bigger data; which you will see further in this analysis.
 Althought we don't have bigger data to truley test how much our refactored code can handle, we do 
 have other ways to test this. Below, you will see how long it took for the code complete.
 
-![](Resources/VBA_Challenge_2018.png)  
+![](Resources/VBA_Challenge_r2018.png)  
 
-![](Resources/VBA_Challenge_r2018.png)
+![](Resources/VBA_Challenge_2018.png)
 
 
 
