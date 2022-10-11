@@ -18,13 +18,16 @@ As you read further, you'll see how we were able to accomplish this for Steve.
 
 ## Results
 
-#### Original Code Results
-
+### Original Code Results
 What you see below are the results of successful code doing it's job. We can also see that 2017 
 yielded better results in stock market than 2018 did but that's beside the point. What we're trying 
 to show here is that the code works; especially for just something this small. What we ended up doing is improving
 the code for bigger data; which you will see further in this analysis.
-![](Resources/VBA_Challenge_2017.png) 
+
+
+
+<img src="Resources/VBA_Challenge_2017.png" width=400> 
+
 
 ### Refactored Code Results
 Althought we don't have bigger data to truley test how much our refactored code can handle, we do 
