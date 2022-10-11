@@ -40,7 +40,7 @@ but believe me, if you are going to do a bigger database, then the refactored co
 
 
 
-<img src="Resources/VBA_Challenge_Refactored.png" width=400>   <img src="Resources/VBA_Challenge_2018.png" width=400> 
+   <img src="Resources/VBA_Challenge_2018.png" width=400> 
  
 
 
