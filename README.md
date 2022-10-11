@@ -37,7 +37,7 @@ have other ways to test this. Below, you will see how long it took for the code 
 
 
 
-<img src="Resources/VBA_Challenge_r2018.png" width=400>   <img src="Resources/VBA_Challenge_2018.png" width=400> 
+<img src="Resources/VBA_Challenge_Refactored.png" width=400>   <img src="Resources/VBA_Challenge_2018.png" width=400> 
  
 
 
