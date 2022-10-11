@@ -32,7 +32,10 @@ the code for bigger data; which you will see further in this analysis.
 
 ### Refactored Code Results
 Althought we don't have bigger data to truley test how much our refactored code can handle, we do 
-have other ways to test this. Below, you will see how long it took for the code complete.
+have other ways to test this. Below, you will see how long it took for the code to complete. The refactored 
+code was hundreths of seconds faster than the original code. Honestly, these images don't do it justice
+but believe me, if you are going to do a bigger database, then the refactored code is the one you will want to go with.
+(Also, in the refactored version we decided not to rounded the numbers like we did in the original one. Hopefully this isn't a big deal)
 
 
 
