@@ -17,6 +17,6 @@ As you read further, you'll see how we were able to accomplish this for Steve.
 
 
 ## Results
-
+![](Resources/VBA_Challenge_2017.png) ![](Resources/VBA_Challenge_2018.png)
 
 ## Summary
